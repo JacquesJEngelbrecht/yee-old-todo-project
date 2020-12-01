@@ -1,0 +1,13 @@
+.remember {
+  text-align: left;
+}
+
+.remember input[type="checkbox"] {
+  transform: scale(1);
+  text-align: left;
+  width: 19px;
+}
+
+h1 {
+  color: brown;
+}
